@@ -1,0 +1,1 @@
+{"version":3,"sources":["User.css"],"names":[],"mappings":"AAAA,WACE,oEAAwE,CACxE,UAAmB,CACnB,qCACF","file":"main.a84e393a.chunk.css","sourcesContent":[".user-view {\n  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;\n  color: rgb(0, 0, 0);\n  background-color: rgba(0, 208, 255, 0.412);\n}\n"]}
